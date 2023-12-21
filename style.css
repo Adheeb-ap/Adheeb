@@ -1,0 +1,29 @@
+*{
+    text-align:  center;
+}
+h1{
+    color: seagreen;
+    
+}
+body{
+    background-color: #f5f5dc;
+
+}
+.heading{
+    background-color: #5f9ea0;
+    border: 5px dashed black;
+    padding: 10px;
+    margin-left: 25%;
+    width: 50%;
+}
+#movie{
+    
+    padding-top: 20px;
+    
+}
+#birthday{
+    padding-top: 20px;
+}
+a{
+    color: #dc143c;
+}
